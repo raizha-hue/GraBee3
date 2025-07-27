@@ -1,0 +1,21 @@
+# Built files
+/build
+/app/build
+*.apk
+*.aab
+
+# Local configuration
+local.properties
+
+# Sensitive data
+*.keystore
+*.jks
+.env
+
+# IDE files
+.idea/
+*.iml
+.gradle/
+
+# OS metadata
+.DS_Store 
