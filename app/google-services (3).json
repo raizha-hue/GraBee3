@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918823784718",
+    "project_id": "grabeeapp",
+    "storage_bucket": "grabeeapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918823784718:android:0c324281cfaa16b002075f",
+        "android_client_info": {
+          "package_name": "com.example.grabee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Ny6Hlsq7-e7fsE4RYq0lYYnKUehmc8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

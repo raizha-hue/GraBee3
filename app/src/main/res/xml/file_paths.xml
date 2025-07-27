@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- For accessing photos from Pictures folder -->
+    <external-files-path
+        name="my_images"
+        path="Pictures" />
+
+    <!-- For camera photos -->
+    <external-files-path
+        name="my_captures"
+        path="DCIM" />
+
+    <!-- For cached files -->
+    <cache-path
+        name="cache"
+        path="/" />
+
+    <!-- For files in internal storage -->
+    <files-path
+        name="internal_files"
+        path="/" />
+</paths>
